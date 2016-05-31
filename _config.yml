@@ -2,8 +2,8 @@
 title: 流浪诗人工作室
 email: 137987751@qq.com
 description: 流浪诗人工作室
-baseurl: "/material-jekyll-theme"
-url: "http://WeissWill.github.io"
+#baseurl: "/material-jekyll-theme"
+#url: "http://WeissWill.github.io"
 fixedNav: 'true' # true or false
 theme: purple # green, blue, orange, purple, grey
 twitterUsername: WeissWill
