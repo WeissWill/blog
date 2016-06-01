@@ -5,4 +5,4 @@ date:   2014-11-11 18:52:21
 categories: ◇﹎话℡
 ---
 请多指教
-![helloworld](/img/helloworld.jpg)
+![helloworld](blog/img/helloworld.jpg)
